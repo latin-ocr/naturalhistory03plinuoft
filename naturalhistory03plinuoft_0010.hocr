@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalhistory03plinuoft/naturalhistory03plinuoft_0010.png"; bbox 0 0 1482 2368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 572 851 988 930">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 572 851 988 930">
+     <span class='ocr_line' id='line_1_1' title="bbox 638 851 918 882; baseline -0.018 -1"><span class='ocrx_word' id='word_1_1' title='bbox 638 857 714 882; x_wconf 61' lang='grc' dir='ltr'><em>Γένει</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 724 853 838 880; x_wconf 73' lang='lat' dir='ltr'><em>Primed</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 849 851 918 877; x_wconf 80' lang='lat'><em>1940</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 572 890 988 930; baseline -0.024 -5"><span class='ocrx_word' id='word_1_4' title='bbox 572 896 719 930; x_wconf 74' lang='lat' dir='ltr'><em>Reprimed</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 731 895 811 925; x_wconf 78' lang='lat'><em>1947,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 826 893 905 922; x_wconf 85' lang='lat'><strong><em>1955,</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 919 890 988 916; x_wconf 81' lang='lat'><strong><em>1967</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 620 1961 982 1993">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 620 1961 982 1993">
+     <span class='ocr_line' id='line_1_3' title="bbox 620 1961 982 1993; baseline -0.022 0"><span class='ocrx_word' id='word_1_8' title='bbox 620 1965 734 1993; x_wconf 76' lang='lat' dir='ltr'><strong><em>Printed</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 747 1965 777 1991; x_wconf 83' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 785 1961 982 1989; x_wconf 79' lang='lat' dir='ltr'><em>GreatBritain</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
