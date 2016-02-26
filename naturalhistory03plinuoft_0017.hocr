@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalhistory03plinuoft/naturalhistory03plinuoft_0017.png"; bbox 0 0 1482 2368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 255 792 1150 984">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 255 792 1150 984">
+     <span class='ocr_line' id='line_1_1' title="bbox 531 792 837 852; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 531 792 798 852; x_wconf 92' lang='lat' dir='ltr'>PLINY</span> <span class='ocrx_word' id='word_1_2' title='bbox 823 816 837 852; x_wconf 73' lang='grc' dir='ltr'>ε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 255 921 1150 984; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 255 924 317 984; x_wconf 93' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_4' title='bbox 324 924 503 983; x_wconf 85' lang='lat' dir='ltr'>ATU</span> <span class='ocrx_word' id='word_1_5' title='bbox 516 924 690 982; x_wconf 89' lang='lat' dir='ltr'>RAL</span> <span class='ocrx_word' id='word_1_6' title='bbox 764 921 1150 983; x_wconf 90' lang='lat' dir='ltr'>HISTORY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 502 1096 885 1145">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 502 1096 885 1145">
+     <span class='ocr_line' id='line_1_3' title="bbox 502 1096 885 1145; baseline -0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 502 1096 701 1145; x_wconf 90' lang='lat' dir='ltr'><strong>BOOK</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 752 1096 885 1145; x_wconf 92' lang='lat' dir='ltr'>VIII</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
